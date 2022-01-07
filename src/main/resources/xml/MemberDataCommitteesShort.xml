@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MemberData publish-date="January 3, 2022">
+	<title-info>
+		<congress-num>117</congress-num>
+		<congress-text>One Hundred Seventeenth Congress</congress-text>
+		<session>1</session>
+		<majority>D</majority>
+		<minority>R</minority>
+		<clerk>Cheryl L. Johnson</clerk>
+		<weburl>https://clerk.house.gov</weburl>
+	</title-info>
+    <members>
+		<member>
+			<statedistrict>AK00</statedistrict>
+			<member-info>
+				<namelist>Young, Don</namelist>
+				<bioguideID>Y000033</bioguideID>
+				<lastname>Young</lastname>
+				<firstname>Don</firstname>
+				<middlename/>
+				<sort-name>YOUNG,DON</sort-name>
+				<suffix/>
+				<courtesy>Mr.</courtesy>
+				<prior-congress>116</prior-congress>
+				<official-name>Don Young</official-name>
+				<formal-name>Mr. Young</formal-name>
+				<party>R</party>
+				<caucus>R</caucus>
+				<state postal-code="AK">
+					<state-fullname>Alaska</state-fullname>
+				</state>
+				<district>At Large</district>
+				<townname>Fort Yukon</townname>
+				<office-building>RHOB</office-building>
+				<office-room>2314</office-room>
+				<office-zip>20515</office-zip>
+				<office-zip-suffix>0200</office-zip-suffix>
+				<phone>(202) 225-5765</phone>
+				<elected-date date="20201103">November  3, 2020</elected-date>
+				<sworn-date date="20210103">January  3, 2021</sworn-date>
+			</member-info>
+			<committee-assignments>
+				<committee comcode="II00" rank="2"/>
+				<committee comcode="PW00" rank="2"/>
+				<subcommittee subcomcode="II13" rank="3"/>
+				<subcommittee subcomcode="II24" rank="1"/>
+				<subcommittee subcomcode="PW05" rank="2"/>
+				<subcommittee subcomcode="PW07" rank="2"/>
+				<subcommittee subcomcode="PW12" rank="2"/>
+			</committee-assignments>
+		</member>
+		<member>
+			<statedistrict>AL01</statedistrict>
+			<member-info>
+				<namelist>Carl, Jerry</namelist>
+				<bioguideID>C001054</bioguideID>
+				<lastname>Carl</lastname>
+				<firstname>Jerry</firstname>
+				<middlename>L.</middlename>
+				<sort-name>CARL,JERRY</sort-name>
+				<suffix/>
+				<courtesy>Mr.</courtesy>
+				<prior-congress>0</prior-congress>
+				<official-name>Jerry L. Carl</official-name>
+				<formal-name>Mr. Carl</formal-name>
+				<party>R</party>
+				<caucus>R</caucus>
+				<state postal-code="AL">
+					<state-fullname>Alabama</state-fullname>
+				</state>
+				<district>1st</district>
+				<townname>Mobile</townname>
+				<office-building>LHOB</office-building>
+				<office-room>1330</office-room>
+				<office-zip>20515</office-zip>
+				<office-zip-suffix>0101</office-zip-suffix>
+				<phone>(202) 225-4931</phone>
+				<elected-date date="20201103">November  3, 2020</elected-date>
+				<sworn-date date="20210103">January  3, 2021</sworn-date>
+			</member-info>
+			<committee-assignments>
+				<committee comcode="AS00" rank="26"/>
+				<committee comcode="II00" rank="15"/>
+				<subcommittee subcomcode="AS02" rank="5"/>
+				<subcommittee subcomcode="AS28" rank="8"/>
+				<subcommittee subcomcode="II13" rank="2"/>
+				<subcommittee subcomcode="II24" rank="4"/>
+			</committee-assignments>
+		</member>
+    </members>
+    <committees>
+        <committee type="standing" comcode="AG00" com-room="1301" com-header-text="The chairman and ranking minority member are ex officio members of all subcommittees." com-zip="20515" com-zip-suffix="6001" com-building-code="LHOB" com-phone="225-2171">
+            <committee-fullname>Committee on Agriculture</committee-fullname>
+            <ratio>
+                <majority>27</majority>
+                <minority>24</minority>
+            </ratio>
+            <subcommittee subcomcode="AG03" subcom-room="1301" subcom-zip="20515" subcom-zip-suffix="0" subcom-building-code="LHOB" subcom-phone="225-2171">
+                <subcommittee-fullname>Nutrition, Oversight, and Department Operations</subcommittee-fullname>
+                <ratio>
+                    <majority>10</majority>
+                    <minority>9</minority>
+                </ratio>
+            </subcommittee>
+            <subcommittee subcomcode="AG14" subcom-room="1301" subcom-zip="20515" subcom-zip-suffix="0" subcom-building-code="LHOB" subcom-phone="225-2171">
+                <subcommittee-fullname>Biotechnology, Horticulture, and Research</subcommittee-fullname>
+                <ratio>
+                    <majority>11</majority>
+                    <minority>10</minority>
+                </ratio>
+            </subcommittee>
+        </committee>
+        <committee type="standing" comcode="AP00" com-room="H307" com-header-text="The chair and ranking minority member are authorized to sit as members of all subcommittees." com-zip="20515" com-zip-suffix="6015" com-building-code="C" com-phone="225-2771">
+			<committee-fullname>Committee on Appropriations</committee-fullname>
+			<ratio>
+				<majority>33</majority>
+				<minority>26</minority>
+			</ratio>
+			<subcommittee subcomcode="AP01" subcom-room="2362A" subcom-zip="20515" subcom-zip-suffix="0" subcom-building-code="RHOB" subcom-phone="225-2638">
+				<subcommittee-fullname>Agriculture, Rural Development, Food and Drug Administration, and Related Agencies</subcommittee-fullname>
+				<ratio>
+					<majority>9</majority>
+					<minority>6</minority>
+				</ratio>
+			</subcommittee>
+			<subcommittee subcomcode="AP02" subcom-room="H405" subcom-zip="20515" subcom-zip-suffix="0" subcom-building-code="C" subcom-phone="225-2847">
+				<subcommittee-fullname>Defense</subcommittee-fullname>
+				<ratio>
+					<majority>10</majority>
+					<minority>7</minority>
+				</ratio>
+			</subcommittee>
+		</committee>
+    </committees>
+</MemberData>
